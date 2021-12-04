@@ -1,0 +1,11 @@
+M models 
+V vews
+C controllers
+
+
+controlers is aplication level code 
+like a superviser 
+all crud operation can we told as controllers
+
+
+
